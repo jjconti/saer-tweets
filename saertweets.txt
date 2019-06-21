@@ -754,7 +754,7 @@ El ladeado siente, al palmear el caballo, el pelo cálido, sobre los músculos m
 
 "Hay un silencio muy grande que rodea la casa, e incluso la región" #NNN
 
-"El presente, es tan ancho como largo es el tiempo entero" #NNN
+"el presente, qie es tan ancho como largo es el tiempo entero" #NNN
 
 "La sombra azul de jinete y caballo, alargada los sigue rápida, deslizándose sobre la tierra arenosa llena de cráteres blandos que se desmoronan al golpe fugaz de los vasos" #NNN
 
