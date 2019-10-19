@@ -923,3 +923,5 @@ Elisa vuelve a entrar en la cocina y, sorteando las mesas y las sillas que yacen
 "El día es desencanto y delirio".  #NNN
 
 "Hay una excitación vegetal, discreta pero firme, ante la inminencia del agua". #NNN
+
+"Ya sabe cómo es el otoño en el litoral: nublado o resplandeciente, siempre hermoso". #AlgoSeAproxima
