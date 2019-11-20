@@ -927,3 +927,5 @@ Elisa vuelve a entrar en la cocina y, sorteando las mesas y las sillas que yacen
 "Ya sabe cómo es el otoño en el litoral: nublado o resplandeciente, siempre hermoso". #AlgoSeAproxima
 
 "Me doy cuenta de que la certidumbre ciega de ser hombre y sólo hombre nos hermana más con la bestia que la duda constante y casi insoportable sobre nuestra condición" #ElEntenado
+
+"Desnudo, parado al lado de la cama. El horror envía, todavía, como el ventilador, ráfagas" #NNN
